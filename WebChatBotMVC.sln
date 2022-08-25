@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebChatBotMVC", "WebChatBotMVC\WebChatBotMVC.csproj", "{CADAAF1F-A81A-4239-973D-B8AC8AFA0184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CADAAF1F-A81A-4239-973D-B8AC8AFA0184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADAAF1F-A81A-4239-973D-B8AC8AFA0184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADAAF1F-A81A-4239-973D-B8AC8AFA0184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADAAF1F-A81A-4239-973D-B8AC8AFA0184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BF54106-6BB4-4106-8A17-854EAD761CA9}
+	EndGlobalSection
+EndGlobal
